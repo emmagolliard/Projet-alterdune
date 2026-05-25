@@ -1,0 +1,21 @@
+﻿nom;type;valeur;quantite
+Potion du Dimanche;HEAL;15;3
+Sandwich Triangle;HEAL;10;4
+Croissant Magique;HEAL;20;2
+Baguette de Survie;HEAL;25;1
+Fromage Douteux;HEAL;5;5
+Redbull Interdit;BUFF;10;2
+Cafe Turbo;BUFF;5;3
+Bonbon du Futur;BUFF;15;1
+Explosion Surprise;DAMAGE;20;2
+Bombe Artisanale;DAMAGE;30;1
+Chaussure Lancee;DAMAGE;10;4
+Pierre de la Paix;MERCY;20;2
+Bisou Diplomatique;MERCY;30;1
+Discours Ennuyeux;MERCY;15;3
+Ticket Restaurant;HEAL;12;3
+Pizza 4 Fromages;HEAL;35;1
+Tacos Mystere;HEAL;40;1
+Potion Lidl;HEAL;8;5
+Objet Chelou;SPECIAL;0;1
+Boite Surprise;SPECIAL;0;1
